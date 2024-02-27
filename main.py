@@ -1,6 +1,6 @@
 import pygame
-import random
 import math
+import random
 pygame.init()
 
 class DrawInformation:
